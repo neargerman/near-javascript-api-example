@@ -1,1 +1,1 @@
-# near-javascript-example
+# near-javascript-api-example
